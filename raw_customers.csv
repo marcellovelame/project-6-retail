@@ -1,0 +1,155 @@
+customer_id,customer_name,region,signup_date,email
+C149,Nina Costa,South West,08-07-2024,nina.costa@outlook.com
+C022,kenji haddad,west,2024-03-24,kenji.haddad@outlook.com
+C049,Grace Rossi,SW,2025-03-28,grace.rossi@mail.com
+C040,Nadia Moreau,South East,2024-08-12,nadia.moreau@mail.com
+C140,MARCO FERREIRA,Midwest,05-07-2025,
+C124,ana novak,midwest,02-19-2025,
+C002,Zoe Novak,West,08-Mar-2024,zoe.novak@mail.com
+C099,KENJI OKAFOR,Southeast,14-Sep-2023,kenji.okafor@gmail.com
+C043,Nina Reyes,South West,12-Jun-2023,nina.reyes@outlook.com
+C073,priya petrov,west,09/28/2023,priya.petrov@yahoo.com
+C041,Rosa Chen,South East,2023-08-13,rosa.chen@gmail.com
+C135,KENJI CHEN,SE,07-22-2023,kenji.chen@gmail.com
+C138,NADIA SANTOS,Midwest,05-01-2025,nadia.santos@gmail.com
+C115,Paul Park,South West,04/21/2023,paul.park@gmail.com
+C112,Ben Lopez,NE,23-Apr-2023,ben.lopez@gmail.com
+C085,yuki nakamura,midwest,01-03-2023,yuki.nakamura@mail.com
+C062,Leo Moreau,,15-Feb-2025,leo.moreau@mail.com
+C064,Carlos Alves,MW,11/10/2023,carlos.alves@gmail.com
+C137,Nadia Kumar,midwest,10-08-2024,nadia.kumar@gmail.com
+C094,NOAH NOVAK,SW,06-10-2025,noah.novak@mail.com
+C013,Elena Reyes,southeast,03-08-2024,elena.reyes@mail.com
+C129,Ana Costa,,08-05-2023,ana.costa@outlook.com
+C024,Maria Bennett,MW,2025-01-04,maria.bennett@outlook.com
+C128,CARLOS MOREAU,W,2024-11-25,
+C075,Maria Nakamura,Northeast,2024-03-24,maria.nakamura@mail.com
+C136,Nadia Klein,west,04/04/2024,nadia.klein@outlook.com
+C026,Noah Mensah,Southwest,12/23/2024,
+C027,Ben Santos,West,2024-08-19,ben.santos@mail.com
+C125,Priya Garcia,NE,01-Feb-2023,priya.garcia@mail.com
+C080,Paul Nakamura,W,01-02-2023,
+C105,Sam Tanaka,,2024-10-12,sam.tanaka@mail.com
+C072,Omar Ferreira,Midwest,04-26-2024,omar.ferreira@yahoo.com
+C070,Rosa Nakamura,Mid West,2024-03-29,rosa.nakamura@outlook.com
+C058,Fatima Garcia,west,01-21-2025,fatima.garcia@outlook.com
+C082,Ana Okafor,southeast,2023-09-03,ana.okafor@gmail.com
+C011,Kenji Adams,Northeast,2023-07-14,kenji.adams@mail.com
+C051,grace rossi,Mid West,01-Dec-2023,grace.rossi@outlook.com
+C054,nadia alves,Southeast,2024-01-13,nadia.alves@yahoo.com
+C037,sam klein,northeast,15-Jul-2024,sam.klein@outlook.com
+C047,Paul Klein,midwest,01-07-2023,paul.klein@mail.com
+C005,Sofia Haddad,West,06-Jul-2024,sofia.haddad@outlook.com
+C044,Rosa Nakamura,Mid West,02-Sep-2023,rosa.nakamura@gmail.com
+C055,James Klein,SW,01/20/2024,james.klein@gmail.com
+C120,Ben Santos,W,07-29-2024,ben.santos@gmail.com
+C067,Fatima Garcia,Southwest,02-09-2025,fatima.garcia@gmail.com
+C018,MARCO NAKAMURA,Northeast,07/10/2023,marco.nakamura@yahoo.com
+C118,Nina Ferreira,northeast,01/17/2025,nina.ferreira@mail.com
+C132,Grace Silva,W,06/25/2023,
+C083,Nadia Chen,southwest,06-07-2023,nadia.chen@outlook.com
+C131,Ana Ferreira,Mid West,2025-06-01,ana.ferreira@mail.com
+C019,Ines Duarte,southwest,03/25/2023,ines.duarte@outlook.com
+C071,Rosa Costa,NE,2023-09-28,rosa.costa@yahoo.com
+C050,Grace Klein,North East,28-Jan-2023,grace.klein@yahoo.com
+C021,Nadia Duarte,NE,2023-04-13,nadia.duarte@outlook.com
+C076,Priya Tanaka,west,06-May-2025,priya.tanaka@gmail.com
+C036,diego moreau,MW,12/14/2024,diego.moreau@yahoo.com
+C007,Sofia Petrov,southeast,07/16/2024,sofia.petrov@mail.com
+C016,ivan ferreira,west,2024-12-14,ivan.ferreira@mail.com
+C029,Paul Novak,South East,04-10-2025,paul.novak@gmail.com
+C116,priya garcia,west,10-Oct-2024,priya.garcia@outlook.com
+C057,Priya Nakamura,South West,01-13-2023,priya.nakamura@gmail.com
+C121,PAUL MENSAH,W,10/22/2023,paul.mensah@outlook.com
+C102,Ivan Chen,SE,19-Mar-2023,ivan.chen@mail.com
+C103,PRIYA PARK,North East,07-03-2024,priya.park@outlook.com
+C061,Elena Haddad,midwest,12/15/2023,elena.haddad@gmail.com
+C053,Rosa Silva,NE,07/24/2023,rosa.silva@yahoo.com
+C023,diego reyes,NE,11/10/2024,diego.reyes@outlook.com
+C078,priya adams,Midwest,08-Dec-2023,priya.adams@yahoo.com
+C038,Nadia Ferreira,W,07-Aug-2023,nadia.ferreira@yahoo.com
+C134,LUCIA OKAFOR,southeast,06/06/2024,lucia.okafor@outlook.com
+C150,Noah Costa,Midwest,2023-05-22,noah.costa@mail.com
+C065,Elena Costa,west,11-Oct-2023,elena.costa@outlook.com
+C089,Paul Chen,North East,03/26/2024,paul.chen@gmail.com
+C098,Maria Silva,North East,03-Dec-2024,maria.silva@outlook.com
+C131,Ana Ferreira,Mid West,2025-06-01,ana.ferreira@mail.com
+C106,James Adams,West,08-29-2023,james.adams@mail.com
+C096,carlos klein,Mid West,03-10-2024,carlos.klein@outlook.com
+C088,Grace Petrov,South East,29-Oct-2024,grace.petrov@gmail.com
+C143,Yuki Kumar,midwest,2023-05-25,yuki.kumar@mail.com
+C077,Ines Santos,South West,06-29-2023,ines.santos@outlook.com
+C033,Ana Chen,southeast,25-Sep-2023,ana.chen@gmail.com
+C093,yuki santos,SW,01/19/2024,yuki.santos@yahoo.com
+C014,IVAN REYES,West,10/29/2024,ivan.reyes@gmail.com
+C025,Priya Okafor,Northeast,11-Oct-2023,priya.okafor@outlook.com
+C060,Kenji Ferreira,southwest,11-15-2024,kenji.ferreira@gmail.com
+C046,Yuki Reyes,South East,2023-03-05,yuki.reyes@mail.com
+C035,CARLOS MOREAU,midwest,11-Nov-2024,carlos.moreau@gmail.com
+C133,Omar Klein,southwest,2023-03-22,omar.klein@outlook.com
+C097,Liam Tanaka,W,01-03-2024,
+C048,Ben Mensah,West,2025-03-30,ben.mensah@mail.com
+C123,Paul Reyes,west,18-Apr-2025,paul.reyes@gmail.com
+C010,MARCO ROSSI,Mid West,09-01-2023,marco.rossi@yahoo.com
+C139,Ines Reyes,North East,01/26/2025,ines.reyes@yahoo.com
+C091,Yuki Okafor,Southwest,16-Feb-2025,yuki.okafor@gmail.com
+C015,Omar Adams,Southwest,04-Jun-2025,omar.adams@yahoo.com
+C095,Zoe Lopez,North East,11-13-2024,zoe.lopez@outlook.com
+C017,Ines Mensah,Midwest,02/04/2025,ines.mensah@gmail.com
+C117,Nadia Nakamura,NE,12-Apr-2023,nadia.nakamura@mail.com
+C086,Carlos Rossi,South West,07/10/2024,carlos.rossi@outlook.com
+C090,Priya Adams,Mid West,09-29-2023,priya.adams@gmail.com
+C034,Omar Duarte,SW,04/29/2023,
+C030,Ivan Petrov,southeast,2025-04-10,ivan.petrov@yahoo.com
+C127,diego kumar,South West,2024-11-08,diego.kumar@mail.com
+C079,Diego Park,North East,07-17-2024,diego.park@gmail.com
+C092,KENJI MENSAH,North East,2023-04-11,kenji.mensah@yahoo.com
+C004,Ana Mensah,West,09/27/2023,ana.mensah@gmail.com
+C056,Liam Alves,West,20-May-2025,liam.alves@gmail.com
+C142,Ivan Okafor,Midwest,03/09/2023,ivan.okafor@mail.com
+C068,Yuki Novak,Southwest,2023-09-16,yuki.novak@gmail.com
+C108,Marco Alves,SW,30-Mar-2024,
+C012,Diego Okafor,North East,04/11/2023,diego.okafor@outlook.com
+C063,Kenji Park,W,10-Nov-2023,kenji.park@mail.com
+C141,Lucia Nakamura,midwest,2024-01-08,lucia.nakamura@mail.com
+C110,marco rossi,West,05/09/2023,marco.rossi@gmail.com
+C109,marco park,Southwest,2023-05-06,marco.park@yahoo.com
+C101,Lucia Nakamura,southeast,30-Apr-2025,lucia.nakamura@mail.com
+C148,nadia duarte,SW,02-05-2025,nadia.duarte@yahoo.com
+C146,James Chen,West,07-06-2024,james.chen@outlook.com
+C019,INES DUARTE,southwest,03/25/2023,ines.duarte@outlook.com
+C020,MARIA PARK,Mid West,2024-10-22,maria.park@outlook.com
+C084,Kenji Ferreira,SE,01-28-2024,kenji.ferreira@gmail.com
+C129,ana costa,,08-05-2023,ana.costa@outlook.com
+C039,Priya Tanaka,SE,2023-08-19,
+C069,Sofia Garcia,NE,11/08/2023,sofia.garcia@gmail.com
+C003,Ben Silva,W,04-28-2023,ben.silva@outlook.com
+C032,ANA PETROV,Midwest,03-Dec-2023,ana.petrov@outlook.com
+C147,SOFIA NOVAK,West,12/10/2024,
+C052,Nina Kumar,West,2025-02-06,nina.kumar@outlook.com
+C106,JAMES ADAMS,West,08-29-2023,james.adams@mail.com
+C111,nina tanaka,West,06/01/2023,nina.tanaka@outlook.com
+C001,Ines Park,W,05/22/2023,ines.park@gmail.com
+C059,Nadia Moreau,midwest,08-29-2024,nadia.moreau@yahoo.com
+C006,nina bennett,West,09/04/2023,nina.bennett@gmail.com
+C104,Nina Okafor,South East,21-Apr-2023,nina.okafor@gmail.com
+C130,Noah Garcia,southeast,12-21-2024,noah.garcia@gmail.com
+C042,Nadia Garcia,west,11-14-2024,nadia.garcia@outlook.com
+C107,Ines Mensah,Southwest,25-Jun-2025,ines.mensah@mail.com
+C122,diego adams,midwest,04-21-2023,diego.adams@gmail.com
+C126,james mensah,West,2024-08-04,james.mensah@gmail.com
+C087,ines park,Southwest,03-05-2025,ines.park@outlook.com
+C031,paul adams,southwest,04/16/2025,paul.adams@outlook.com
+C066,KENJI HADDAD,,15-Jan-2023,
+C045,YUKI REYES,South East,06-04-2023,yuki.reyes@yahoo.com
+C028,Carlos Costa,northeast,11/13/2024,carlos.costa@mail.com
+C081,Zoe Ferreira,MW,2023-07-28,zoe.ferreira@outlook.com
+C114,nadia nakamura,,09-21-2024,nadia.nakamura@mail.com
+C144,James Reyes,MW,21-Mar-2025,james.reyes@gmail.com
+C008,Fatima Bennett,Mid West,18-Nov-2024,fatima.bennett@mail.com
+C113,ana novak,Southwest,2023-05-10,ana.novak@gmail.com
+C009,Ana Klein,,2024-08-25,ana.klein@gmail.com
+C074,MARIA GARCIA,midwest,06-19-2023,maria.garcia@mail.com
+C145,ana haddad,Mid West,2023-08-08,ana.haddad@yahoo.com
+C119,DIEGO ADAMS,Northeast,05/01/2025,
+C100,LEO GARCIA,Mid West,30-Oct-2023,leo.garcia@yahoo.com
